@@ -12,5 +12,6 @@ It is a flutter project with login and sign up functionality based on Supabase A
 
 1. Download and add the files to your existing flutter project.
 2. Update the pubspec.yaml file to fetch the required dependencies.
-3. Connect your project to your Firebase account.
-4. Done! You have successfully integrated login and singup services to your project.
+3. Connect your project to your Supabase account.
+4. Create table in your supabase project.
+5. Done! You have successfully integrated login and singup services to your project.
